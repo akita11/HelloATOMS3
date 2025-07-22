@@ -1,0 +1,24 @@
+Bill of materials
+抵抗1kΩ(1/4W)
+https://akizukidenshi.com/catalog/g/g125102/
+
+抵抗10kΩ(1/6W)
+https://akizukidenshi.com/catalog/g/g116103/
+
+CdS
+https://akizukidenshi.com/catalog/g/g100110/
+
+LED(緑・Φ5mm)
+例えば https://akizukidenshi.com/catalog/g/g112606/
+
+ピンヘッダ(4p, 5p)
+これを折る https://akizukidenshi.com/catalog/g/g100167/
+
+M5Stack ATOMS3
+https://www.switch-science.com/products/8670
+
+基板
+PCB/内のものをJLCPCB等で製造する
+
+USB-Cケーブル
+適当なもの
